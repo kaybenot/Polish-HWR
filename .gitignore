@@ -1,0 +1,7 @@
+.conda
+.vscode
+mmocr
+supervisely_agent
+work_dirs
+datasets/
+model
